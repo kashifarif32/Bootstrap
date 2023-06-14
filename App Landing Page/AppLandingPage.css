@@ -1,0 +1,38 @@
+.jumbotron{
+    background-image: url(background.jpg);
+    height: 350px;
+    text-align: center;
+    margin-top: 50px;
+}
+#signup{
+    padding-left: 360px;
+}
+#input{
+    width: 300px;
+    border: none;
+    border-top-right-radius: 3%;
+    border-bottom-right-radius: 3%;
+    height: 36px;
+    margin-top: 1px;
+}
+.btn{
+    border-radius: 6% !important;
+}
+#jumbotron-content{
+    padding-top: 50px;
+}
+#appSummary{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#appStore{
+    width: 200px;
+}
+#footer{
+    background-color: aqua;
+    padding-top: 50px;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 150px;
+}
